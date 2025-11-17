@@ -99,8 +99,8 @@ sudo apt-get install build-essential gcc make
 
 ### 1. Clonar el Repositorio
 
-git clone https://github.com/lJuam/sistema-reservas-parque-berlin.git
-cd sistema-reservas-parque-berlin
+git clone https://github.com/lJuam/SO_ParqueBerlin
+
 
 ### 2. Compilar el Proyecto
 make
